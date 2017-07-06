@@ -1,4 +1,4 @@
-# Elixir Key Value Store
+# Elixir Key Value Store - Team 3 submittal
 
 An in-memory key-value data store that exposes a HTTP REST interface.
 
